@@ -39,7 +39,7 @@ _Sep 2023 - Present, Kelowna BC, Canada_
 
 ---
 
-### Projects
+### Portfolio
 
 #### [Optimizing Formula 1 Strategies](DATA_410_Final_Project.pdf)
 - Statistical modelling approach to predict Formula 1 race strategies and outcomes using multivariate models.
