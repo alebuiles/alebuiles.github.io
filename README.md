@@ -41,6 +41,15 @@ _Sep 2023 - Present, Kelowna BC, Canada_
 
 ### Projects
 
+#### [Optimizing Formula 1 Strategies](DATA_410_Final_Project.pdf)
+- Statistical modelling approach to predict Formula 1 race strategies and outcomes using multivariate models.
+
+#### [Effectiveness of Hand Arrangements in Ultrasound-Guided Anesthesia](STAT400_Final_Project.pdf)
+- Explored the impact of hand arrangement on the efficiency and accuracy of needle placement in medical procedures.
+
+#### [Markov Processes Simulation](STAT403_Final_Project.pdf)
+- Simulated complex Markov processes to analyze system reliability and operational strategies using advanced statistical methods.
+- 
 #### [Artificial Intelligence Game Player](https://github.com/COSC-322-Team-03/Game-Project)
 - Developed a Java-based AI for the Game of the Amazons with a GUI.
 
