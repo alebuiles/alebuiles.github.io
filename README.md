@@ -26,10 +26,11 @@ _May 2023 - Present, Kelowna BC, Canada_
 - Automated the extraction of learning outcomes from textbooks using Python, improving efficiency by 30%.
 - Established a testing framework on GitHub, enhancing project integrity and collaboration efficiency.
 
-#### Country Representative
-**Latin American Student Organization**  
-_Jan 2023 - April 2023, Kelowna, BC_
-- Organized and hosted 5 cultural events, promoting Latin American customs and culture.
+#### Undergraduate Research Ambassador
+**University of British Columbia**  
+_Sep 2023 - April 2024, Kelowna BC, Canada_
+- Mentored over 100 students, increasing undergraduate participation in research by 30%.
+- Facilitated 15 workshops on research skills and networking.
 
 #### Coffee Specialist
 **Nespresso**  
@@ -65,10 +66,9 @@ _2022, Awarded for maintaining an 80% academic average._
 ---
 
 ### Volunteering
-#### Undergraduate Research Ambassador
-**University of British Columbia**  
-_Sep 2023 - April 2024, Kelowna BC, Canada_
-- Mentored over 100 students, increasing undergraduate participation in research by 30%.
-- Facilitated 15 workshops on research skills and networking.
+#### Country Representative
+**Latin American Student Organization**  
+_Jan 2023 - April 2023, Kelowna, BC_
+- Organized and hosted 5 cultural events, promoting Latin American customs and culture.
 
 ---
