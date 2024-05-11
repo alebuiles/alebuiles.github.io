@@ -49,7 +49,7 @@ _Sep 2023 - Present, Kelowna BC, Canada_
 
 #### [Markov Processes Simulation](STAT403_Final_Project.pdf)
 - Simulated complex Markov processes to analyze system reliability and operational strategies using advanced statistical methods.
-- 
+  
 #### [Artificial Intelligence Game Player](https://github.com/COSC-322-Team-03/Game-Project)
 - Developed a Java-based AI for the Game of the Amazons with a GUI.
 
