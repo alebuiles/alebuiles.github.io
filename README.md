@@ -2,7 +2,7 @@
 ## Data Science Graduate - University of British Columbia
 
 ### Contact Information
-- **Location**: Vancouver BC, Canada
+- **Location**: Kelowna BC, Canada
 - **Email**: [alejobuilesg@outlook.com](mailto:alejobuilesg@outlook.com)
 - **LinkedIn**: [alejandrobuilesg](https://www.linkedin.com/in/alejandrobuilesg)
 - **Phone**: +1 (604) 356 6571
@@ -57,7 +57,7 @@ _Sep 2023 - Present, Kelowna BC, Canada_
 - Built a secure and user-friendly online platform using SQL, Java, JSP, and Python.
 
 #### [Data Analytics on Gender Equality in Employment](https://github.com/ubco-W2021T1-data301/project-group02-project)
-- Analyzed employment rates and earnings by gender using Tableau, Python, Jupyter Lab, NumPy, and MATLAB.
+- Analyzed employment rates and earnings by gender using Tableau, Python, Jupyter Lab, and NumPy.
 
 ---
 
