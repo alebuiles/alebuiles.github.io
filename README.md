@@ -3,7 +3,7 @@
 
 ### Contact Information
 - **Location**: Kelowna BC, Canada
-- **Email**: [alejobuilesg@outlook.com](mailto:alejobuilesg@outlook.com)
+- **Email**: [alebg2510@hotmail.com](mailto:alebg2510@hotmail.com)
 - **LinkedIn**: [alejandrobuilesg](https://www.linkedin.com/in/alejandrobuilesg)
 - **Phone**: +1 (604) 356 6571
 
