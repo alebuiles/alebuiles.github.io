@@ -22,7 +22,7 @@ _Bachelor of Science, Data Science_
 #### Undergraduate Research Assistant - Junior Developer
 **University of British Columbia**  
 _May 2023 - Present, Kelowna BC, Canada_
-- Created over 50 unique questions for introductory Statistics courses, enhancing course content for inclusivity.
+- Created unique questions for introductory Statistics courses, enhancing course content for inclusivity.
 - Automated the extraction of learning outcomes from textbooks using Python, improving efficiency by 30%.
 - Established a testing framework on GitHub, enhancing project integrity and collaboration efficiency.
 
@@ -35,11 +35,14 @@ _Sep 2023 - April 2024, Kelowna BC, Canada_
 #### Coffee Specialist
 **Nespresso**  
 _Sep 2023 - Present, Kelowna BC, Canada_
-- Delivered exceptional customer service, contributing to sales goals and organizing coffee tasting events.
+- Delivered exceptional customer service, contributing to sales goals and organizing coffee-tasting events.
 
 ---
 
 ### Portfolio
+
+#### [Stock Price Prediction 2024 USA Elections](https://github.com/alebuiles/stock-price-prediction-2024-elections))
+- Predicting stock price movements during the 2024 U.S. elections using historical data, sentiment analysis, and machine learning models.
 
 #### [Optimizing Formula 1 Strategies](DATA_410_Final_Project.pdf)
 - Statistical modelling approach to predict Formula 1 race strategies and outcomes using multivariate models.
