@@ -24,13 +24,13 @@ _Bachelor of Science, Data Science_
 **University of British Columbia**  
 _May 2023 - Sep 2024, Kelowna BC, Canada_
 - Created unique questions for introductory Statistics courses, enhancing course content for inclusivity.
-- Automated the extraction of learning outcomes from textbooks using Python, improving efficiency by 30%.
+- Automated the extraction of learning outcomes from textbooks using Python.
 - Established a testing framework on GitHub, enhancing project integrity and collaboration efficiency.
 
 #### Undergraduate Research Ambassador
 **University of British Columbia**  
 _Sep 2023 - April 2024, Kelowna BC, Canada_
-- Mentored over 100 students, increasing undergraduate participation in research by 30%.
+- Mentored over 100 students, increasing undergraduate participation in research.
 - Facilitated 15 workshops on research skills and networking.
 
 #### Coffee Specialist
@@ -66,9 +66,8 @@ _Sep 2023 - Sep 2024, Kelowna BC, Canada_
 ---
 
 ### Skills
-- **Languages**: Python (Pandas, NumPy), MATLAB, Java, R, SQL
+- **Languages**: Python (Pandas, NumPy), MATLAB, Java, R, SQL, HTML
 - **Tools**: Git, Tableau, Microsoft Power BI, Microsoft Office
-- **Other Skills**: Probability and Statistics, Machine Learning, Fluent in Spanish
 
 ---
 
