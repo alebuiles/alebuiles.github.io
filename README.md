@@ -42,7 +42,7 @@ _Sep 2023 - Present, Kelowna BC, Canada_
 ### Portfolio
 
 #### [Stock Price Prediction 2024 USA Elections](https://github.com/alebuiles/stock-price-prediction-2024-elections)
-- Predicting stock price movements during the 2024 U.S. elections using historical data, sentiment analysis, and machine learning models.
+- Predicted stock price movements during the 2024 U.S. elections using historical data, sentiment analysis, and machine learning models.
 
 #### [Optimizing Formula 1 Strategies](DATA_410_Final_Project.pdf)
 - Statistical modelling approach to predict Formula 1 race strategies and outcomes using multivariate models.
