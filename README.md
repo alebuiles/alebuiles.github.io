@@ -13,7 +13,8 @@
 **University of British Columbia**  
 _Bachelor of Science, Data Science_  
 **2020 - 2024**  
-*Relevant Courses*: Databases, Machine Learning, Artificial Intelligence, Sampling and Design, Time Series and Forecasting, Data Analytics.
+*Relevant Courses*: Numerical Analysis | Probability | Stochastic Processes | Machine Learning | Artificial Intelligence Regression and Generalized Linear Models | Statistical Communication & Consulting | Stochastic Modeling & Simulation
+
 
 ---
 
@@ -21,7 +22,7 @@ _Bachelor of Science, Data Science_
 
 #### Undergraduate Research Assistant - Junior Developer
 **University of British Columbia**  
-_May 2023 - Present, Kelowna BC, Canada_
+_May 2023 - Sep 2024, Kelowna BC, Canada_
 - Created unique questions for introductory Statistics courses, enhancing course content for inclusivity.
 - Automated the extraction of learning outcomes from textbooks using Python, improving efficiency by 30%.
 - Established a testing framework on GitHub, enhancing project integrity and collaboration efficiency.
@@ -34,7 +35,7 @@ _Sep 2023 - April 2024, Kelowna BC, Canada_
 
 #### Coffee Specialist
 **Nespresso**  
-_Sep 2023 - Present, Kelowna BC, Canada_
+_Sep 2023 - Sep 2024, Kelowna BC, Canada_
 - Delivered exceptional customer service, contributing to sales goals and organizing coffee-tasting events.
 
 ---
