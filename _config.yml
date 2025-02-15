@@ -2,4 +2,4 @@ title: Alejandro Builes
 logo: profile.jpeg
 # description: text below image 
 show_downloads: true 
-remote_theme: mmistakes/minimal-mistakes
+theme: jekyll-theme-midnight
